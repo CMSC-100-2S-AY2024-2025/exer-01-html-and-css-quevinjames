@@ -1,0 +1,13 @@
+.top_bar{
+    display: flex;
+    flex-direction: row;
+    background-image: url('/home/user/Desktop/exer-01-html-and-css-quevinjames/images/top_bar');
+    background-size:cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;;
+}
+
+.portfolio_title{
+    color: black;
+}
