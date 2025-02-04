@@ -7,7 +7,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: flex-start;
-    background-image: url('../images/top_bar');
+    background-image: url('images/top_bar');
     background-size:cover;
     padding-top: 10px;
     padding-bottom: 10px;
